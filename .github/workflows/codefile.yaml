@@ -32,6 +32,6 @@ jobs:
           script: |
             ls
             cd home
-            ls
+            
             sudo mv *  /usr/share/nginx/html
             ls
